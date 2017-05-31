@@ -1,6 +1,6 @@
 Who's working on it?
 ---
 
-Rémy: false
+Rémy: true
 
 Pierre: false
